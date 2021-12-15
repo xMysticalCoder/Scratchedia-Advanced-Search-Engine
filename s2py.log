@@ -1,0 +1,127 @@
+ERROR:root:Broken Pipe Error. Connection Lost.
+INFO:root:Re-connected to wss://clouddata.scratch.mit.edu
+INFO:root:Re-sending the data
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://172.18.0.52:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:172.18.0.1 - - [15/Dec/2021 15:17:34] "GET / HTTP/1.1" 200 -
+ERROR:root:Broken Pipe Error. Connection Lost.
+INFO:root:Re-connected to wss://clouddata.scratch.mit.edu
+INFO:root:Re-sending the data
+INFO:werkzeug:172.18.0.1 - - [15/Dec/2021 15:18:41] "HEAD / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://172.18.0.52:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:172.18.0.1 - - [15/Dec/2021 15:19:13] "GET / HTTP/1.1" 200 -
+ERROR:root:Broken Pipe Error. Connection Lost.
+INFO:root:Re-connected to wss://clouddata.scratch.mit.edu
+INFO:root:Re-sending the data
+ERROR:root:Broken Pipe Error. Connection Lost.
+INFO:root:Re-connected to wss://clouddata.scratch.mit.edu
+INFO:root:Re-sending the data
+ERROR:root:Broken Pipe Error. Connection Lost.
+INFO:root:Re-connected to wss://clouddata.scratch.mit.edu
+INFO:root:Re-sending the data
+ERROR:root:Broken Pipe Error. Connection Lost.
+INFO:root:Re-connected to wss://clouddata.scratch.mit.edu
+INFO:root:Re-sending the data
+INFO:werkzeug:172.18.0.1 - - [15/Dec/2021 15:21:46] "GET / HTTP/1.1" 200 -
+ERROR:root:Broken Pipe Error. Connection Lost.
+INFO:root:Re-connected to wss://clouddata.scratch.mit.edu
+INFO:root:Re-sending the data
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://172.18.0.52:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:172.18.0.1 - - [15/Dec/2021 15:22:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.1 - - [15/Dec/2021 15:23:41] "HEAD / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://172.18.0.52:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:172.18.0.1 - - [15/Dec/2021 15:24:22] "GET / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://172.18.0.52:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:172.18.0.1 - - [15/Dec/2021 15:25:15] "GET / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://172.18.0.52:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:172.18.0.1 - - [15/Dec/2021 15:25:40] "GET / HTTP/1.1" 200 -
+ERROR:root:Broken Pipe Error. Connection Lost.
+INFO:root:Re-connected to wss://clouddata.scratch.mit.edu
+INFO:root:Re-sending the data
+ERROR:root:Broken Pipe Error. Connection Lost.
+INFO:root:Re-connected to wss://clouddata.scratch.mit.edu
+INFO:root:Re-sending the data
+ERROR:root:Broken Pipe Error. Connection Lost.
+INFO:root:Re-connected to wss://clouddata.scratch.mit.edu
+INFO:root:Re-sending the data
+ERROR:root:Broken Pipe Error. Connection Lost.
+INFO:root:Re-connected to wss://clouddata.scratch.mit.edu
+INFO:root:Re-sending the data
+INFO:werkzeug:172.18.0.1 - - [15/Dec/2021 15:28:41] "HEAD / HTTP/1.1" 200 -
+ERROR:root:Broken Pipe Error. Connection Lost.
+INFO:root:Re-connected to wss://clouddata.scratch.mit.edu
+INFO:root:Re-sending the data
+ERROR:root:Broken Pipe Error. Connection Lost.
+INFO:root:Re-connected to wss://clouddata.scratch.mit.edu
+INFO:root:Re-sending the data
+INFO:werkzeug:172.18.0.1 - - [15/Dec/2021 15:30:32] "GET / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://172.18.0.52:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:172.18.0.1 - - [15/Dec/2021 15:31:27] "GET / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://172.18.0.52:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:172.18.0.1 - - [15/Dec/2021 15:33:09] "GET / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://172.18.0.52:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:172.18.0.1 - - [15/Dec/2021 15:33:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.1 - - [15/Dec/2021 15:33:41] "HEAD / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://172.18.0.52:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:172.18.0.1 - - [15/Dec/2021 15:33:55] "GET / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://172.18.0.52:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:172.18.0.1 - - [15/Dec/2021 15:34:28] "GET / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://172.18.0.52:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:172.18.0.1 - - [15/Dec/2021 15:35:30] "GET / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://172.18.0.52:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:172.18.0.1 - - [15/Dec/2021 15:36:34] "GET / HTTP/1.1" 200 -
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://172.18.0.52:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:172.18.0.1 - - [15/Dec/2021 15:37:36] "GET / HTTP/1.1" 200 -
+ERROR:root:Broken Pipe Error. Connection Lost.
+INFO:root:Re-connected to wss://clouddata.scratch.mit.edu
+INFO:root:Re-sending the data
+ERROR:root:Broken Pipe Error. Connection Lost.
+INFO:root:Re-connected to wss://clouddata.scratch.mit.edu
+INFO:root:Re-sending the data
+INFO:werkzeug:172.18.0.1 - - [15/Dec/2021 15:38:41] "HEAD / HTTP/1.1" 200 -
+ERROR:root:Broken Pipe Error. Connection Lost.
+INFO:root:Re-connected to wss://clouddata.scratch.mit.edu
+INFO:root:Re-sending the data
+ERROR:root:Broken Pipe Error. Connection Lost.
+INFO:root:Re-connected to wss://clouddata.scratch.mit.edu
+INFO:root:Re-sending the data
+ERROR:root:Broken Pipe Error. Connection Lost.
+INFO:root:Re-connected to wss://clouddata.scratch.mit.edu
+INFO:root:Re-sending the data
+ERROR:root:Broken Pipe Error. Connection Lost.
+INFO:root:Re-connected to wss://clouddata.scratch.mit.edu
+INFO:root:Re-sending the data
+ERROR:root:Broken Pipe Error. Connection Lost.
+INFO:root:Re-connected to wss://clouddata.scratch.mit.edu
+INFO:root:Re-sending the data
+ERROR:root:Broken Pipe Error. Connection Lost.
+INFO:root:Re-connected to wss://clouddata.scratch.mit.edu
+INFO:root:Re-sending the data
+INFO:werkzeug:172.18.0.1 - - [15/Dec/2021 15:43:41] "HEAD / HTTP/1.1" 200 -
