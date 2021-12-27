@@ -1,0 +1,4 @@
+PLANS:
+- Final version will use Scratchedia official account
+LOGS:
+- check github repository (it barely has commits)
